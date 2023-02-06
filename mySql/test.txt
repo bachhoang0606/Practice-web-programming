@@ -1,0 +1,38 @@
+In case of the Case Study, JavaFX 15
+works as our tool
+to develop our UI.
+Thus, f
+rom
+our architecture viewpoint,
+each UI boundary class is
+corresponded
+to
+design
+class
+(s)
+handling the events/actions from humans
+which
+are
+captured in
+corresponding
+FXML files
+. Although in JavaFX, t
+he design class
+(s)
+is called the
+“controller” of the FXML files
+,
+it
+does
+not
+play as the role of the
+control class in
+UML
+.
+Consequently, most of those event handlers are quite simple, and hence t
+he
+mapping here is
+1
+-
+1
+.
